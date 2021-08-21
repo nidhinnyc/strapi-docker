@@ -8,5 +8,5 @@
     
   ],
   "workspaceFolder": "/srv/app/",
-  "shutdownAction": "none"
+  "shutdownAction": "stopCompose"
 }
