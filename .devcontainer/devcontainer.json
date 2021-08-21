@@ -1,0 +1,12 @@
+{
+  "name": "StrapiDocker",
+  "dockerComposeFile": [
+    "../docker-compose.yml"
+  ],
+  "service": "strapiexample",
+  "extensions": [
+    
+  ],
+  "workspaceFolder": "/srv/app/",
+  "shutdownAction": "none"
+}
